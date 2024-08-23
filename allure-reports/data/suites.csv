@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","10756","test_check_9day_forecast","testcases","Fri Aug 23 16:04:59 CST 2024","passed","Fri Aug 23 16:05:10 CST 2024","Test_HomePage","test9day","",""
