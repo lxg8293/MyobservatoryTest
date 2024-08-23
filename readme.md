@@ -4,7 +4,7 @@
     3.安装支持库  
     pip install -r requirements.txt  
 
-二、脚本说明
+二、脚本说明  
     1.使用pytest管理用例，uiautomator2设计脚本，alluire生成报告  
     2.脚本采用PO设计模式：  
         1.homepage封装首页的元素和操作，比如打开菜单，选择菜单项等  
